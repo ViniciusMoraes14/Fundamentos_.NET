@@ -1,0 +1,14 @@
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\obj\Debug\net9.0\CarrinhoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\obj\Debug\net9.0\CarrinhoSimples.AssemblyInfoInputs.cache
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\obj\Debug\net9.0\CarrinhoSimples.AssemblyInfo.cs
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\obj\Debug\net9.0\CarrinhoSimples.csproj.CoreCompileInputs.cache
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\bin\Debug\net9.0\CarrinhoSimples.exe
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\bin\Debug\net9.0\CarrinhoSimples.deps.json
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\bin\Debug\net9.0\CarrinhoSimples.runtimeconfig.json
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\bin\Debug\net9.0\CarrinhoSimples.dll
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\bin\Debug\net9.0\CarrinhoSimples.pdb
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\obj\Debug\net9.0\CarrinhoSimples.dll
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\obj\Debug\net9.0\refint\CarrinhoSimples.dll
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\obj\Debug\net9.0\CarrinhoSimples.pdb
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\obj\Debug\net9.0\CarrinhoSimples.genruntimeconfig.cache
+C:\Users\Vinic\OneDrive\Área de Trabalho\Projects\CarrinhoSimples\obj\Debug\net9.0\ref\CarrinhoSimples.dll
