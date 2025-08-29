@@ -1,0 +1,27 @@
+﻿@model IEnumerable<ControleFinanceiroWeb.Models.CategoriaViewModel>
+
+<h2>Totais por Categoria</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Categoria</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="TransacoesPor" asp-route-categoria="@item.Categoria">
+                        @item.Categoria
+                    </a>
+                </td>
+                <td>@item.Total.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p><a asp-action="Index">Voltar</a></p>
